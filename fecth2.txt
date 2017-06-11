@@ -1,3 +1,4 @@
 fetch1
 fetch2
 fetch3
+4
